@@ -1,0 +1,7 @@
+name = "HPhiWrapper"
+uuid = "b181a9f8-0dfc-4aa6-8acb-e4b3683041d8"
+authors = ["ultimatile <ultimatile@users.noreply.github.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6"
